@@ -5,6 +5,8 @@
 - 📫 How to reach me ? >> email at jewandrewitbooi1@gmail.com
 - ⚡ Fun fact: I enjoy coding while listening to music
 
+- ALL PROJECTS ARE ON MASTER BRANCH !
+
 <!---
 JewandreJuliano/JewandreJuliano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
